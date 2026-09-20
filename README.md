@@ -7,6 +7,7 @@
 
 [![Reinheitsgebot CI/CD](https://github.com/GrowwithGoogle/Reinheitsg-botTle/actions/workflows/reinheitsgebot_ci.yml/badge.svg)](https://github.com/GrowwithGoogle/Reinheitsg-botTle/actions)
 [![Elsevier | Mendeley](https://img.shields.io/badge/Elsevier%20%7C%20Mendeley-Cited%20on%20Mendeley-D60203?style=for-the-badge&logo=mendeley&logoColor=white)](https://www.mendeley.com/search/?query=Kieckhefer+Agricultural+Thermodynamics)
+[![Lyft Driver](https://img.shields.io/badge/Lyft_Driver-100%25_Acceptance_Rate_Since_2022-FF00BF?style=for-the-badge&logo=lyft&logoColor=white)](https://www.lyft.com/rider)
 [![510 Years of Statutory Law](https://img.shields.io/badge/Statute-1516_Landordnung-amber.svg)](https://blogs.loc.gov)
 [![NIST SP 800-82 ICS Cyber Hardened](https://img.shields.io/badge/NIST_SP_800--82-ICS_Cyber_Hardened-06b6d4.svg)](https://csrc.nist.gov/publications/detail/sp/800-82/rev-3/final)
 [![SCOTUS Commerce Clause](https://img.shields.io/badge/SCOTUS-21st_Amendment_Jurisprudence-blue.svg)](https://www.supremecourt.gov)
