@@ -35,6 +35,13 @@
          +---------------------------------------------------------------+
 ```
 
+> ### ⚖️ Statutory Manifesto: Law in Continuous Development (Not a Static Relic)
+> **This repository does not merely archive ancient legal text—it tracks, documents, and applies CI/CD to the living lawmaking and legal evolution process.**
+> 
+> * **Law as Living Code**: From a 1516 ducal decree in Ingolstadt to Louis Pasteur's 1857 microbiological amendment, 1906 imperial codification, and 1987 European Court of Justice free-trade rulings, statutory frameworks evolve as science and society advance.
+> * **Automated Legal CI/CD**: We treat legislative drafts, administrative rulemakings (TTB & FDA), and statutory standards as executable unit tests. Every recipe pull request is automatically audited by CI/CD linters for legal compliance.
+> * **Continuous Supreme Court Docket Feeds**: Tracking real-time U.S. Supreme Court jurisprudence (21st Amendment vs. Dormant Commerce Clause and post-*Chevron* regulatory review) through automated docket feeds.
+
 ---
 
 #### 📜 Chapter 1: The Medieval Wild West — Henbane, Soot, and the Poison Brewers
