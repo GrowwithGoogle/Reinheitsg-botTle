@@ -117,10 +117,18 @@ As America celebrates its Semiquincentennial (250 years, 1776–2026), the Reinh
 
 <p align="center">
   <img
-    src="assets/new_glarus_authentic.jpg"
-    alt="New Glarus Brewing Co. — Bavarian Chalets, Hilltop Clock Tower, and Driftless Terroir"
-    width="100%"
+    src="assets/andy_new_glarus_brewhouse.jpg"
+    alt="Google Professional, Andy K at New Glarus Brewing Co. Bottling Hall with Fresh Wisconsin Cheese Curds"
+    width="49%"
   />
+  <img
+    src="assets/new_glarus_authentic.jpg"
+    alt="New Glarus Brewing Co. Bavarian Chalets, Hilltop Clock Tower, and Driftless Terroir"
+    width="49%"
+  />
+</p>
+<p align="center">
+  <em><strong>Google Professional, Andy K</strong> on-site at New Glarus Brewing Co. (New Glarus, WI) conducting brewhouse SCADA verification above the packaging floor with fresh local cheese curds.</em>
 </p>
 
 <p align="center">
