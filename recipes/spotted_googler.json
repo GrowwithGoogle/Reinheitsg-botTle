@@ -1,0 +1,15 @@
+{
+  "recipe_name": "Spotted Googler",
+  "style": "Wisconsin Driftless Heritage Cream Ale",
+  "batch_id": "BATCH-510",
+  "target_gravity": "1.048",
+  "target_abv": "5.1%",
+  "target_ibu": 18,
+  "ingredients": [
+    "Artesian Spring Water",
+    "Six-Row Malted Barley",
+    "Willamette Hops",
+    "Clean Ale Yeast"
+  ],
+  "tasting_notes": "The quintessential Wisconsin lawnmower staple. Naturally cloudy, sweet malt aroma, soft pillowy mouthfeel with a refreshing, clean finish."
+}

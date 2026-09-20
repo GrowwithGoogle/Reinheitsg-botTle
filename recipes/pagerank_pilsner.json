@@ -1,0 +1,15 @@
+{
+  "recipe_name": "PageRank Pilsner",
+  "style": "Northern German Crispy Lager",
+  "batch_id": "BATCH-001",
+  "target_gravity": "1.046",
+  "target_abv": "4.8%",
+  "target_ibu": 36,
+  "ingredients": [
+    "Reverse Osmosis Water",
+    "Pilsner Malted Barley",
+    "Hallertau Hops",
+    "German Lager Yeast"
+  ],
+  "tasting_notes": "Brilliantly straw-colored, cracker-like malt backbone, floral noble hop bite. Zero latency. Highly indexed."
+}

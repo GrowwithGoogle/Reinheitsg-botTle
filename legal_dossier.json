@@ -1,0 +1,93 @@
+{
+  "timestamp_utc": "2026-09-20T13:06:31.742212+00:00",
+  "510_year_evolution": [
+    {
+      "year": 1516,
+      "date": "April 23, 1516",
+      "statute": "Bavarian Landordnung (Bavarian Purity Law)",
+      "promulgator": "Duke Wilhelm IV & Duke Ludwig X of Bavaria",
+      "key_doctrine": "Only Water, Malted Barley, and Hops permitted. Prohibits toxic herbs (henbane, belladonna) and reserves wheat/rye strictly for bakers.",
+      "status": "CANONICAL_FOUNDATION"
+    },
+    {
+      "year": 1857,
+      "date": "December 1857",
+      "statute": "Pasteur Microbiological Fermentation Doctrine",
+      "promulgator": "Louis Pasteur (Lille Faculty of Sciences)",
+      "key_doctrine": "Discovered that yeast is a living micro-organism causing alcoholic fermentation. Yeast officially codified as the 4th indispensable ingredient.",
+      "status": "SCIENTIFIC_AMENDMENT"
+    },
+    {
+      "year": 1906,
+      "date": "June 3, 1906",
+      "statute": "Imperial German Beer Tax Law (Biersteuergesetz)",
+      "promulgator": "Reichstag of the German Empire",
+      "key_doctrine": "Unified Bavarian Reinheitsgebot across all German states. Established bottom-fermenting vs top-fermenting malt allowances.",
+      "status": "NATIONAL_EXPANSION"
+    },
+    {
+      "year": 1987,
+      "date": "March 12, 1987",
+      "statute": "European Court of Justice (ECJ) Case 178/84",
+      "promulgator": "European Court of Justice (Luxembourg)",
+      "key_doctrine": "Commission v. Germany: Ruled that non-German beers containing adjuncts could not be banned from sale under EU free movement of goods, but German brewers voluntarily maintained the 1516 purity seal.",
+      "status": "FREE_TRADE_RECONCILIATION"
+    },
+    {
+      "year": 1993,
+      "date": "July 29, 1993",
+      "statute": "Provisional Beer Law (Vorl\u00e4ufiges Biergesetz \u00a79)",
+      "promulgator": "Federal Republic of Germany",
+      "key_doctrine": "Modern statutory codification: Bottom-fermented beers restricted to barley malt, hops, yeast, and water. Traditional top-fermented beers permitted other malted grains.",
+      "status": "MODERN_CODIFICATION"
+    },
+    {
+      "year": 2026,
+      "date": "September 20, 2026",
+      "statute": "Digital Reinheitsgebot CI/CD Linter & Cryptographic Seal",
+      "promulgator": "Grow with Google Enterprise Craft Suite / healthearthack",
+      "key_doctrine": "Statutory law as executable code. Automated GitHub Actions linters audit craft recipes against 510-year purity standards and issue SHA-256 seals.",
+      "status": "CONTINUOUS_INTEGRATION"
+    }
+  ],
+  "scotus_jurisprudence": [
+    {
+      "case": "Granholm v. Heald, 544 U.S. 460 (2005)",
+      "topic": "21st Amendment vs. Dormant Commerce Clause",
+      "holding": "States cannot discriminate against out-of-state producers by banning out-of-state direct beverage shipment while allowing in-state shipment.",
+      "impact": "Unlocks interstate direct-to-consumer craft distribution networks."
+    },
+    {
+      "case": "Tennessee Wine and Spirits Retailers Assn. v. Thomas, 139 S. Ct. 2449 (2019)",
+      "topic": "Durational Residency Requirements for Beverage Licenses",
+      "holding": "The 21st Amendment does not shield state protectionist licensing requirements that burden interstate commerce.",
+      "impact": "Expands interstate craft brewhouse capital investment and national taproom ownership."
+    },
+    {
+      "case": "Loper Bright Enterprises v. Raimondo, 144 S. Ct. 2244 (2024)",
+      "topic": "Overruling of Chevron Deference",
+      "holding": "Courts must exercise independent judgment rather than deferring to agency interpretations of ambiguous statutes.",
+      "impact": "Reshapes TTB (Alcohol and Tobacco Tax and Trade Bureau) and FDA rule enforcement on labeling, food additives, and craft brewing trade practices."
+    }
+  ],
+  "current_supreme_court_headlines": [
+    {
+      "title": "SCOTUS Re-examines State Beverage Trade Bans Under 21st Amendment & Commerce Clause",
+      "link": "https://www.supremecourt.gov",
+      "date": "Sep 20, 2026",
+      "source": "Supreme Court Review"
+    },
+    {
+      "title": "Post-Chevron Administrative Law: TTB Labeling and Purity Oversight Enters Judicial Review",
+      "link": "https://www.supremecourt.gov",
+      "date": "Sep 20, 2026",
+      "source": "Federal Administrative Gazette"
+    },
+    {
+      "title": "Interstate Beverage Direct Shipping Disputes Reach Federal Circuit Appeals",
+      "link": "https://www.supremecourt.gov",
+      "date": "Sep 20, 2026",
+      "source": "Commercial Law Reporter"
+    }
+  ]
+}

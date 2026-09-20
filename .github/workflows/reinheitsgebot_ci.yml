@@ -1,0 +1,52 @@
+name: Reinheitsgebot 1516 Statutory CI/CD & Legal Evolution
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  schedule:
+    # Run weekly every Monday at 09:00 UTC to continuously pull legal developments
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+
+jobs:
+  statutory-purity-audit:
+    name: 🍺 Bavarian Landordnung 1516 Purity Linter
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run Statutory Compliance Tests
+        run: |
+          python -m unittest discover -s tests -v
+
+      - name: Audit Reference Craft Recipes
+        run: |
+          echo "=== AUDITING PAGERANK PILSNER ==="
+          python src/reinheitsgebot_auditor.py recipes/pagerank_pilsner.json
+          echo "=== AUDITING SPOTTED GOOGLER ==="
+          python src/reinheitsgebot_auditor.py recipes/spotted_googler.json
+
+  legal-evolution-scotus-monitor:
+    name: ⚖️ 510-Year Statutory Evolution & SCOTUS Monitor
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Track Law Evolution & Supreme Court Headlines
+        run: |
+          python src/law_evolution_tracker.py
+          cat legal_dossier.json

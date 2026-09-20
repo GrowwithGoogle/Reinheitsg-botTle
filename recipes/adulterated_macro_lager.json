@@ -1,0 +1,20 @@
+{
+  "recipe_name": "Industrial Macro Lager",
+  "style": "Corporate Adjunct Lager",
+  "batch_id": "BATCH-FAIL-666",
+  "target_gravity": "1.040",
+  "target_abv": "4.2%",
+  "target_ibu": 8,
+  "ingredients": [
+    "Municipal Tap Water",
+    "Malted Barley",
+    "High Fructose Corn Syrup",
+    "Rice Extract",
+    "Propylene Glycol",
+    "Caramel Color",
+    "Sodium Benzoate",
+    "Hops",
+    "Yeast"
+  ],
+  "tasting_notes": "Watery, artificial sweetness, chemical foaming agents, guaranteed statutory audit violation under Bavarian Landordnung 1516."
+}
