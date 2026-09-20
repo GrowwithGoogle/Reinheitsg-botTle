@@ -157,6 +157,16 @@ As America celebrates its Semiquincentennial (250 years, 1776–2026), the Reinh
 > * **The Agronomic Export Core**: Wisconsin operates as the nation's premier malting and brewing biotechnology epicenter. Through Briess Malting (Chilton/Manitowoc), Wisconsin stainless sanitary fabrication, and UW–Madison fermentation sciences, state agricultural exports flow to 148 countries worldwide.
 > * **The "Wisconsin Only" Liquid Sanctuary**: While agricultural science and malting genetics radiate globally, finished unadulterated cold craft ales remain strictly guarded within Wisconsin's 72 counties (0.0% out-of-state commercial distribution)—compelling craft enthusiasts from Munich, London, Tokyo, and all 49 other states into a reverse pilgrimage to the limestone spring. Terroir cannot be mailed; it must be experienced at the source.
 
+<p align="center">
+  <a href="https://taproom.thepolka.cloud">
+    <img
+      src="assets/new_glarus_beer_belt.gif"
+      alt="New Glarus Brewing Co. Flagship Brands Conveyor Ticker — Spotted Cow, Moon Man, Totally Naked, Two Women, Belgian Red"
+      width="100%"
+    />
+  </a>
+</p>
+
 ---
 
 #### 📜 Chapter 6: Modern Statutory CI/CD — The 1516 Law as Executable Code
