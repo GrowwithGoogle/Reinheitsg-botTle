@@ -114,6 +114,25 @@ In 1516, yeast (*das Zeug*) was an invisible mystery. Brewers simply transferred
 
 As America celebrates its Semiquincentennial (250 years, 1776–2026), the Reinheitsgebot stands at 510 years of unbroken jurisprudence. In the Driftless limestone valleys of Wisconsin—where glaciers bypassed the rugged terrain and artesian water filters through ancient sandstone—immigrant brewmasters preserved the sacred oath of purity. From the village of New Glarus to modern independent brewhouses, this legacy proves that real craft never needs synthetic additives or shortcut adjuncts.
 
+<p align="center">
+  <img
+    src="assets/new_glarus_driftless_marquee.gif"
+    alt="New Glarus, Wisconsin — Moving Window on the Driftless Terroir"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="assets/new_glarus_global_map.jpg"
+    alt="Global Distribution & Pilgrimage Trajectories — New Glarus Wisconsin Only"
+    width="100%"
+  />
+</p>
+
+> ### 🗺️ The "Wisconsin Only" Global Exclusivity Doctrine
+> New Glarus maintains a legendary sovereign distribution boundary: **100% within the State of Wisconsin, 0.0% to the rest of the planet**. Rather than exporting beer through commercial distributors, beer enthusiasts from Munich, London, Tokyo, and all 49 other states make the physical pilgrimage across state lines to the Driftless Area. Terroir cannot be mailed—it must be experienced at the source.
+
 ---
 
 #### 📜 Chapter 6: Modern Statutory CI/CD — The 1516 Law as Executable Code
