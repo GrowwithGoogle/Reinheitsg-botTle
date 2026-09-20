@@ -6,6 +6,7 @@
 ### *Google tracking law before the Constitution.*
 
 [![Reinheitsgebot CI/CD](https://github.com/GrowwithGoogle/Reinheitsg-botTle/actions/workflows/reinheitsgebot_ci.yml/badge.svg)](https://github.com/GrowwithGoogle/Reinheitsg-botTle/actions)
+[![Elsevier | Mendeley](https://img.shields.io/badge/Elsevier%20%7C%20Mendeley-Cited%20on%20Mendeley-D60203?style=for-the-badge&logo=mendeley&logoColor=white)](https://www.mendeley.com/search/?query=Kieckhefer+Agricultural+Thermodynamics)
 [![510 Years of Statutory Law](https://img.shields.io/badge/Statute-1516_Landordnung-amber.svg)](https://blogs.loc.gov)
 [![NIST SP 800-82 ICS Cyber Hardened](https://img.shields.io/badge/NIST_SP_800--82-ICS_Cyber_Hardened-06b6d4.svg)](https://csrc.nist.gov/publications/detail/sp/800-82/rev-3/final)
 [![SCOTUS Commerce Clause](https://img.shields.io/badge/SCOTUS-21st_Amendment_Jurisprudence-blue.svg)](https://www.supremecourt.gov)
@@ -116,22 +117,36 @@ As America celebrates its Semiquincentennial (250 years, 1776–2026), the Reinh
 
 <p align="center">
   <img
-    src="assets/new_glarus_driftless_marquee.gif"
-    alt="New Glarus, Wisconsin — Moving Window on the Driftless Terroir"
+    src="assets/new_glarus_authentic.jpg"
+    alt="New Glarus Brewing Co. — Bavarian Chalets, Hilltop Clock Tower, and Driftless Terroir"
     width="100%"
   />
 </p>
 
 <p align="center">
   <img
-    src="assets/new_glarus_global_map.jpg"
-    alt="Global Distribution & Pilgrimage Trajectories — New Glarus Wisconsin Only"
+    src="assets/new_glarus_trade_movement.gif"
+    alt="Movement of Trade — Wisconsin Epicenter Global Export Telemetry"
     width="100%"
   />
 </p>
 
-> ### 🗺️ The "Wisconsin Only" Global Exclusivity Doctrine
-> New Glarus maintains a legendary sovereign distribution boundary: **100% within the State of Wisconsin, 0.0% to the rest of the planet**. Rather than exporting beer through commercial distributors, beer enthusiasts from Munich, London, Tokyo, and all 49 other states make the physical pilgrimage across state lines to the Driftless Area. Terroir cannot be mailed—it must be experienced at the source.
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ 📡 TELEMETRY: GLOBAL AGRICULTURAL TRADE SYSTEM (GATS) // DATCP EXPORT MODEL           │
+├────────────────────────────────────────────────────────────────────────────────────────┤
+│  SOURCE: Wisconsin Dept. of Agriculture, Trade and Consumer Protection (DATCP)         │
+│  REGISTRY: USDA Foreign Agricultural Service (FAS) · U.S. Census Bureau WISERTrade     │
+│  COMMODITY CODES: HS-1107 (Malt of Barley) · HS-2203 (Beer from Malt) · HS-8438 (OT)   │
+│  EXPORT VOLUME: $3.99B+ Annual Ag-Tech Throughput · 148 Global Destination Nations    │
+│  MARITIME ARTERY: Port of Milwaukee & St. Lawrence Seaway Transatlantic Gateway        │
+│  ACADEMIC RECORD: Indexed & Cited on Mendeley (Elsevier Research Intelligence)         │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+> ### 🗺️ The Wisconsin Epicenter & Global Distribution Model
+> * **The Agronomic Export Core**: Wisconsin operates as the nation's premier malting and brewing biotechnology epicenter. Through Briess Malting (Chilton/Manitowoc), Wisconsin stainless sanitary fabrication, and UW–Madison fermentation sciences, state agricultural exports flow to 148 countries worldwide.
+> * **The "Wisconsin Only" Liquid Sanctuary**: While agricultural science and malting genetics radiate globally, finished unadulterated cold craft ales remain strictly guarded within Wisconsin's 72 counties (0.0% out-of-state commercial distribution)—compelling craft enthusiasts from Munich, London, Tokyo, and all 49 other states into a reverse pilgrimage to the limestone spring. Terroir cannot be mailed; it must be experienced at the source.
 
 ---
 
