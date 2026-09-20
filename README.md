@@ -8,7 +8,7 @@
 [![510 Years of Statutory Law](https://img.shields.io/badge/Statute-1516_Landordnung-amber.svg)](https://blogs.loc.gov)
 [![NIST SP 800-82 ICS Cyber Hardened](https://img.shields.io/badge/NIST_SP_800--82-ICS_Cyber_Hardened-06b6d4.svg)](https://csrc.nist.gov/publications/detail/sp/800-82/rev-3/final)
 [![SCOTUS Commerce Clause](https://img.shields.io/badge/SCOTUS-21st_Amendment_Jurisprudence-blue.svg)](https://www.supremecourt.gov)
-[![Taproom Arcade Game](https://img.shields.io/badge/Arcade_Game-The_Chilled_Pour-brightgreen.svg)](https://go.thepolka.cloud/taproom.html)
+[![Taproom Arcade Game](https://img.shields.io/badge/Arcade_Game-The_Chilled_Pour-brightgreen.svg)](https://taproom.thepolka.cloud)
 [![Brew RSS Feed](https://img.shields.io/badge/RSS_2.0-Syndicated_Brews-orange.svg)](https://thepolka.cloud/brew_feed.xml)
 
 ---
@@ -188,7 +188,7 @@ This repository hardens the brewhouse using **NIST SP 800-82 Rev 3** and **NIST 
 #### 🎮 Chapter 9: The Chilled Pour Arcade Game & Taproom Syndication
 *Step up to the digital taproom and test your brewmaster skills.*
 
-* **Playable Arcade Game**: [https://go.thepolka.cloud/taproom.html](https://go.thepolka.cloud/taproom.html)
+* **Playable Arcade Game**: [https://taproom.thepolka.cloud](https://taproom.thepolka.cloud)
 * **Live W3C RSS 2.0 Feed**: [https://thepolka.cloud/brew_feed.xml](https://thepolka.cloud/brew_feed.xml)
 * **Taproom Features**:
   1. **Recipe Engine**: Choose from PageRank Pilsner, 404: Yeast Not Found, Kernel Panic DIPA, or Smackover Nitro Stout.
