@@ -3,6 +3,7 @@
 <img width="1983" height="793" alt="ng" src="https://github.com/user-attachments/assets/66ecff23-73a5-409b-89b8-0fb5575249e7" />
 
 ## *Cheers to 510 years of law on 250 years of America.*
+### *Google tracking law before the Constitution.*
 
 [![Reinheitsgebot CI/CD](https://github.com/GrowwithGoogle/Reinheitsg-botTle/actions/workflows/reinheitsgebot_ci.yml/badge.svg)](https://github.com/GrowwithGoogle/Reinheitsg-botTle/actions)
 [![510 Years of Statutory Law](https://img.shields.io/badge/Statute-1516_Landordnung-amber.svg)](https://blogs.loc.gov)
